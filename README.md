@@ -20,7 +20,6 @@ These results indicate that the current implementation is limited in its applica
 
 ## Files and Structure
 
-## Folder Structure
 - **Python_U-Net/**: Contains Python scripts implementing the U-Net model and associated tasks for data preprocessing, model training, and evaluation.
 - `Python0_flips.py`: Script for augmenting the dataset through image flipping.
 - `Python1_rename.py`: Script for renaming and organizing the input data files.
