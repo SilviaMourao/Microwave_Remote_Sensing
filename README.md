@@ -28,6 +28,7 @@ These results indicate that the current implementation is limited in its applica
 - `Python4_geotiles.py`: Script for georeferencing and tiling the image data.
 - `Python5_confusionmatrices.py`: Script to calculate confusion matrices and evaluate the classification performance.
 - `dataResUnet.xlsx`: Results and evaluation data from the U-Net training and validation.
+- `model-ResUnet.h5`: Trained model data.
 - **Project_U-Net_Classification.pdf**: Project report.
 
 ## Limitations and Future Work
